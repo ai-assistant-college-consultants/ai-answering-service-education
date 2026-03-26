@@ -100,3 +100,7 @@ Start using an **AI answering service for education consultants** today:
 Chaaropik AI builds automation tools for education consultants, including AI assistants, answering services, and appointment booking systems.
 
 ---
+## 🔗 Related Pages
+
+- [AI Assistant for College Consultants](https://ai-assistant-college-consultants.github.io/ai-assistant-college-consultants/)
+- [AI Answering Service for Education Consultants](https://ai-assistant-college-consultants.github.io/ai-answering-service-education/)
